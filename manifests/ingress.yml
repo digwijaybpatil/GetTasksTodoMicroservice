@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: get-tasks-api.jhandu.shop
+    - host: get.digwi.online
       http:
         paths:
           - pathType: Prefix
